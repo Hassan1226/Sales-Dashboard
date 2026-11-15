@@ -50,7 +50,7 @@ The theme is black with orange, mauve and blue accents. Charts show their values
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/Hassan1226/Sales-Dashboard.git
 cd  https://github.com/Hassan1226/Sales-Dashboard.git
 ```
 

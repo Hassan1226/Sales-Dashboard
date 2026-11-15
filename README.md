@@ -4,9 +4,8 @@ An interactive dashboard built with **Streamlit** and **Plotly** that visualizes
 
 The theme is black with orange, mauve and blue accents. Charts show their values directly on the bars and donuts.
 
-<!-- Add a screenshot after you run the app:
-![Dashboard preview](docs/dashboard.png)
--->
+<img width="558" height="571" alt="image" src="https://github.com/user-attachments/assets/1e498593-045e-4f52-bb4f-df3c3cc2aef8" />
+
 
 ## Features
 
@@ -52,7 +51,7 @@ The theme is black with orange, mauve and blue accents. Charts show their values
 
 ```bash
 git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+cd <https://github.com/Hassan1226/Sales-Dashboard.git>
 ```
 
 ### 2. Install dependencies
@@ -119,6 +118,3 @@ Age groups: Under Age (below 20), 20-29, 30-39, 40-49 and 50 and Above.
 - [Plotly](https://plotly.com/python/)
 - [pandas](https://pandas.pydata.org/) and [NumPy](https://numpy.org/)
 
-## License
-
-Add a license of your choice, for example MIT, before publishing.

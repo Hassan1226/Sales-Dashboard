@@ -51,7 +51,7 @@ The theme is black with orange, mauve and blue accents. Charts show their values
 
 ```bash
 git clone https://github.com/<your-username>/<your-repo>.git
-cd <https://github.com/Hassan1226/Sales-Dashboard.git>
+cd  https://github.com/Hassan1226/Sales-Dashboard.git
 ```
 
 ### 2. Install dependencies
